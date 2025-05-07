@@ -23,11 +23,3 @@ python top_movies.py
 poetry run start-server
 
 ## Run tests
-poetry run pytest
-
-
-
-```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-poetry install
