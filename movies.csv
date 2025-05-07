@@ -1,0 +1,21 @@
+id,rating,movie_title,certified_fresh
+m1,8.6,Movie 1,false
+m2,8.7,Movie 2,true
+m3,8.8,Movie 3,false
+m4,8.9,Movie 4,true
+m5,9.0,Movie 5,false
+m6,9.1,Movie 6,true
+m7,9.2,Movie 7,false
+m8,9.3,Movie 8,true
+m9,9.4,Movie 9,false
+m10,9.5,Movie 10,true
+m11,9.6,Movie 11,false
+m12,9.7,Movie 12,true
+m13,9.2,Movie 13,false
+m14,9.1,Movie 14,true
+m15,4.0,Movie 15,true
+m16,2.0,Movie 16,true
+m17,4.0,Movie 17,true
+m18,6.3,Movie 18,true
+m19,8.2,Movie 19,false
+m20,1.0,Movie 20,true

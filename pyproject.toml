@@ -1,0 +1,25 @@
+[project]
+name = "movies"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Alex Alvarado",email = "alex.alvarado@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["flask (>=3.1.0,<4.0.0)"]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+coverage = "^7.8.0"
+
+[tool.poetry.scripts]
+start-server = "app.routes:start"
+
+[tool.pytest.ini_options]
+pythonpath = "."
+
