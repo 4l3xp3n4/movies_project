@@ -23,3 +23,4 @@ python top_movies.py
 poetry run start-server
 
 ## Run tests
+poetry run pytest 
